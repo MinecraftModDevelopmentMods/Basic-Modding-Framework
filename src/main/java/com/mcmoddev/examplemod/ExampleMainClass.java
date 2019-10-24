@@ -21,7 +21,7 @@ public class ExampleMainClass {
     public static final String NAME = "Example Mod";
     public static final String VERSION = "0.0.0";
     public static final String UPDATE_JSON = "https://raw.githubusercontent.com/MinecraftModDevelopmentMods/examplemod/master/update.json";
-    public static final String MC_VERSION = "[1.11, 1.11.2]";
+    public static final String MC_VERSION = "[1.10, 1.10.2]";
     public static final Logger LOGGER = LogManager.getLogger(NAME);
 
     @Mod.EventHandler
