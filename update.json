@@ -1,0 +1,30 @@
+{
+  "homepage": "http://minecraft.curseforge.com/projects/examplemod",
+  "promos": {
+    "1.12.2-latest": "0.0.0",
+    "1.11.2-latest": "0.0.0",
+    "1.10.2-latest": "0.0.0",
+    "1.9.4-latest": "0.0.0",
+    "1.8.9-latest": "0.0.0",
+    "1.12.2-recommended": "0.0.0",
+    "1.11.2-recommended": "0.0.0",
+    "1.10.2-recommended": "0.0.0",
+    "1.9.4-recommended": "0.0.0",
+    "1.8.9-recommended": "0.0.0"
+  },
+  "1.12.2": {
+    "1.0.0": "No Release"
+  },
+  "1.11.2": {
+    "0.0.0": "No Release"
+  },
+  "1.10.2": {
+    "0.0.0": "No Release"
+  },
+  "1.9.4": {
+    "0.0.0": "No Release"
+  },
+  "1.8.9": {
+    "0.0.0": "No Release"
+  }
+}
